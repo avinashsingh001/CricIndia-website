@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    font-family: Titillium Web,sans-serif;
+    box-sizing: border-box;
+}
+
+.about, ul{
+    color: teal;
+    width:80%;
+    margin: 10px auto;
+    font-family: Titillium Web,sans-serif;
+    font-size: 20px;
+}
+
+.about-text{
+    /* background-color:rgba(9, 44, 44, 0.13); */
+}
+

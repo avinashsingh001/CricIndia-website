@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    font-family: Titillium Web,sans-serif;
+    box-sizing: border-box;
+}
+
+.grade{
+    margin: 20px 0px 0px 0px;
+}
+.players{
+    margin-top: 10px;
+}
+.players-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+figure{
+    margin: 10px 0px 10px 40px;
+}
+
+.players-image{
+    background: linear-gradient(
+243deg
+,#009bfe,#0a4199);
+}
+
+.left-heading{    
+    color:rgb(21, 73, 73);
+    font-weight:bolder;
+    position: relative;
+    left: 130px;
+}
+
+.players-name{
+    margin-left: 15px;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color:rgb(22, 94, 94);
+    
+}

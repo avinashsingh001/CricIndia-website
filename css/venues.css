@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    font-family: Titillium Web,sans-serif;
+    box-sizing: border-box;
+}
+
+.venue-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.heading{
+    margin: 10px;
+    color: rgb(12, 92, 92);
+}
+
+.venue-place{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: 5px;
+    color:teal;
+}
+.venue-name{
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-style: italic;
+    font-weight: lighter;
+    color:rgb(21, 73, 73);
+    margin-left: 5px;
+
+}
+
+figure{
+    margin: 15px;
+}
